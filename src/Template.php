@@ -1,6 +1,6 @@
 <?php
 
-namespace BlueSpice\WikiText;
+namespace HalloWelt\MediaWiki\Lib\WikiText;
 
 class Template {
 	/**
