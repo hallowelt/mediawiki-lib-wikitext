@@ -3,6 +3,7 @@
 namespace HalloWelt\MediaWiki\Lib\WikiText;
 
 class Template {
+
 	/**
 	 *
 	 * @var string
@@ -11,7 +12,7 @@ class Template {
 
 	/**
 	 *
-	 * @var string
+	 * @var array
 	 */
 	protected $params = [];
 
